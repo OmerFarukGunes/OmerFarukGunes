@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blazor**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view](https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view)
+- 👨‍💻 My Cv [https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view](https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view)
 
 - 📝 I regularly write articles on [omerfarukgunes.com.tr](omerfarukgunes.com.tr)
 
