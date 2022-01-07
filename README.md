@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Güneş</h1>
 <h3 align="center">A student of computer engineering who is hungry for progress</h3>
 
-- 🔭 I’m currently working on **Staj Ve Kariyer Portalı**
+- 🔭 I’m currently working on Game Developing
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning Unity
 
 - 👨‍💻 My Cv [https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view](https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view)
 
 - 📝 I regularly write articles on [omerfarukgunes.com.tr](omerfarukgunes.com.tr)
 
-- 💬 Ask me about **Blazor, .Net, C, C#,C++, HTML,CSS**
+- 💬 Ask me about **Unity,Blazor, .Net, C, C#,C++, HTML,CSS**
 
 - 📫 How to reach me **bayomerfg@gmail.com**
 
