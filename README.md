@@ -3,7 +3,7 @@
 
 
 - You can see my github point on codersClub https://codersclub.co/developer-profile/OmerFarukGunes
-- 
+
 - 🌱 I’m currently learning **Shader and Mesh on Unity**
 
 - 👨‍💻 My CV [https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view](https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view)
