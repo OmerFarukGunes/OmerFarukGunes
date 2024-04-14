@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ömer Faruk Güneş</h1>
-<h3 align="center">Game Developer at Imaginite Studio</h3>
+<h1 align="center">Hello 👋, I'm Ömer Faruk Güneş</h1>
+<h3 align="center">Game Developer at Marula Games</h3>
 
 
 - You can see my github point on codersClub https://codersclub.co/developer-profile/OmerFarukGunes
 
-- 🌱 I’m currently learning **Shader and Mesh on Unity**
+- 🌱 I’m currently learning **Shader and Mesh Deformation on Unity**
 
 - 👨‍💻 My CV [https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view](https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view)
 
 - 📝 My Website [omerfarukgunes.com](omerfarukgunes.com)
 
-- 💬 Ask me about **Unity,.Net, C, C#,C++, HTML,CSS, SQL**
+- 💬 Ask me about **Unity, .Net, C#, HTML, CSS, SQL, C, C++ **
 
 - 📫 How to reach me **bayomerfg@gmail.com**
 
