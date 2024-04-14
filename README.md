@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Shader and Mesh Deformation on Unity**
 
-- 👨‍💻 My CV [https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view](https://drive.google.com/file/d/19P5b09ypfDfFiXYCwrp1YdQiRX4idS2B/view)
-
 - 📝 My Website [omerfarukgunes.com](omerfarukgunes.com)
 
 - 💬 Ask me about **Unity, .Net, C#, HTML, CSS, SQL, C, C++ **
