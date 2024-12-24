@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Unity, C#, HTML, CSS **
 
-- 📫 How to reach me **bayomerfg@gmail.com**
+- 📫 How to reach me **devomerfarukgunes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
